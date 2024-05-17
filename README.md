@@ -1,1 +1,1 @@
-https://waitherteam.github.io/#operation/getNotifications
+https://waitherteam.github.io
